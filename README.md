@@ -1,6 +1,6 @@
 # B4B_exploit
 
-Refill all **27 offline Burn Card types to 999 copies each** in Back 4 Blood.
+Vibe coded tool to give you the maximum amount of burn cards in Back 4 Blood.
 Cards are still consumed normally; rerun the tool to refill them.
 
 ## Requirements
