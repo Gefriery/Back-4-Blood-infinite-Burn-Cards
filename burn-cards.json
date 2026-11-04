@@ -1,0 +1,164 @@
+[
+  {
+    "guid": "72FCE1ED47868BAE4C7ECFA2C71EBFD9",
+    "product": "Burn_RollGunAR",
+    "card": "Burn_RollGunAR",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "B4B8F0114CBF9150B14443B085963A08",
+    "product": "Burn_RollGunSG",
+    "card": "Burn_RollGunSG",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "A6DCC471495DADD8DC4233977B0A7D7C",
+    "product": "Burn_RollGunHG",
+    "card": "Burn_RollGunHG",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "AAC3D0CA42D7F201651086B58D21E789",
+    "product": "Burn_RollGunSMG",
+    "card": "Burn_RollGunSMG",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "BA9CBABF4158C9FCF0490993260958DF",
+    "product": "Burn_RollGunLMG",
+    "card": "Burn_RollGunLMG",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "DA8C397A489196C0DDF4D28B519CB8DE",
+    "product": "Burn_RollGunSNI",
+    "card": "Burn_RollGunSNI",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "1730FCC14F3AC0AC1E91768AB7970F8D",
+    "product": "Burn_TeamCurrency",
+    "card": "Burn_TeamCurrency",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "D81637BA41574AC361CB38BF3A2A758B",
+    "product": "Burn_TraumaRecoverTeam",
+    "card": "Burn_TeamTraumaRecover",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "F8FCA5FC473B1765A76981BC3CB5FA0F",
+    "product": "Burn_AmmoRestoreMaxTeam",
+    "card": "Burn_TeamAmmoRestoreMax",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "3EDB8EC0486BF42A632B4191C79B086E",
+    "product": "Burn_TraumaResistTeam",
+    "card": "Burn_TeamTraumaResist",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "796DA6A747C4E4B912A5859F09FB39C8",
+    "product": "Burn_ElementalResistTeam",
+    "card": "Burn_TeamElementalResist",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "94BEE303446DA8D17978D2A5C6A72206",
+    "product": "Burn_ExtraContinue",
+    "card": "Burn_ExtraContinue",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "C622D05B477D22F2C01CCB9628573514",
+    "product": "Burn_BreakoutTeam",
+    "card": "Burn_TeamBreakout",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "8363D88740B0DADEE468A9B9694C3E0F",
+    "product": "Burn_HiredGun",
+    "card": "Burn_HiredGun",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "9B78908043555640D9D9498E09C3A137",
+    "product": "Burn_OffensiveUpgrade",
+    "card": "Burn_OffensiveUpgrade",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "54CDB066460C498DC3E69C8D41FC717B",
+    "product": "Burn_SupportUpgrade",
+    "card": "Burn_SupportUpgrade",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "43D7B3D941FA87206845C498479E03E7",
+    "product": "Burn_QuickUpgrade",
+    "card": "Burn_QuickUpgrade",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "A89BE21F4EEE51EFB25FDCAFE6BCFE44",
+    "product": "Burn_TeamLife",
+    "card": "Burn_TeamLife",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "E2EDF3634D63472243D241A11485E21A",
+    "product": "Burn_TeamArmor",
+    "card": "Burn_TeamArmor",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "40CA612044496DC6EF3B5EB3BC881296",
+    "product": "Burn_AttachmentScavenger",
+    "card": "Burn_AttachmentScavenger",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "91154B354401928A973720BC3303A68D",
+    "product": "Burn_MedicalScavenger",
+    "card": "Burn_MedicalScavenger",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "5E3498DF467F98574AF6E9980BF5D0E5",
+    "product": "Burn_OffensiveScavenger",
+    "card": "Burn_OffensiveScavenger",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "B3840A514045284E6776DA9BD3D07C74",
+    "product": "Burn_RollWeaponCorrupted",
+    "card": "Burn_RollWeaponCorrupted",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "0C520313458257BC53E021BBD747934A",
+    "product": "Burn_WeaponUpgradePrimary",
+    "card": "Burn_WeaponUpgradePrimary",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "7C6708574D6DCEAA2E6107BFAC349B3C",
+    "product": "Burn_WeaponUpgradeSecondary",
+    "card": "Burn_WeaponUpgradeSecondary",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "35D72B774C7FD3CF519C00BE909ADF14",
+    "product": "Burn_RollAttachmentCorrupted",
+    "card": "Burn_RollAttachmentCorrupted",
+    "productType": "EProductType::Consumable"
+  },
+  {
+    "guid": "29794EBD4ED9739F606131BC954CDB55",
+    "product": "Burn_RollMelee",
+    "card": "Burn_RollMelee",
+    "productType": "EProductType::Consumable"
+  }
+]

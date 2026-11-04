@@ -1,0 +1,31 @@
+# Never commit private game data, identity files, keys, backups, or reports.
+*.sav
+*.sav.*
+*.vdf
+*key*.json
+*profile*.json
+*Profile*.json
+report.json
+backups/
+B4B_exploit_backups/
+SaveGames/
+*.log
+*.dmp
+*.dump
+*.zip
+*.7z
+*.bak
+*.tmp
+*.burncards-tmp
+# No game binaries or downloaded analysis tools belong in this repository.
+*.exe
+*.dll
+*.pak
+*.sig
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.claude/
+.codex/
